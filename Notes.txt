@@ -1,0 +1,5 @@
+Hello everybody!
+I am trying to creatre a file for the purpose of testing out GIT
+I know Git is super commonly used, infact, they interviewers asked about it when I applied for the CS position over the summer.
+I can see how working collaboritively would be useful is a CS class
+I can also see how it might be a useful place for students to turn in their work.
