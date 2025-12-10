@@ -12,3 +12,5 @@ I worry that I will stop doing it on what I view as small changes and eventually
 I hope using GIT helps me to comment and describe changes and code more consistently bewcause I definitely see the appeal.
 
 Now I am able to edit the doc from my pc.
+
+Wow okay it was a bit of a trail to get things pushed to GitHub but now I want to see if I can remember how to do it without the codetrain guide.
