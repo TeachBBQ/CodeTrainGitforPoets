@@ -5,3 +5,10 @@ I can see how working collaboritively would be useful is a CS class
 I can also see how it might be a useful place for students to turn in their work.
 
 I bet this will also be a great way for my students to be able to download assets for their projects.
+
+Something I am concerned about is that writitng descriptions for each change seems tedious.
+I worry that I will stop doing it on what I view as small changes and eventually stop doing it on big changes as well much like the way I comment my code. 
+
+I hope using GIT helps me to comment and describe changes and code more consistently bewcause I definitely see the appeal.
+
+huh no spell check, I wonder if there is a plug in for that that I can turn on and off.
