@@ -10,5 +10,3 @@ Something I am concerned about is that writitng descriptions for each change see
 I worry that I will stop doing it on what I view as small changes and eventually stop doing it on big changes as well much like the way I comment my code. 
 
 I hope using GIT helps me to comment and describe changes and code more consistently bewcause I definitely see the appeal.
-
-huh no spell check, I wonder if there is a plug in for that that I can turn on and off.
